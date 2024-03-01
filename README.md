@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danieloaldy
-- 👀 I’m interested in Java,Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Machine Learning, AI, and Blockchain
+- 🌱 I’m currently learning Python
 - 📫 How to reach me at instagram @danieloac
 
 <!---
